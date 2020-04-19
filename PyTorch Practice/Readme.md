@@ -11,3 +11,5 @@ This Sub folder Introduction to Pytorch and how is it used for Deep Learning
     - Neural Network in PyTorch
     
     - Training Neural Network
+    
+    - Fashion MNIST
