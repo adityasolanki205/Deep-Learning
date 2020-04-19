@@ -6,7 +6,7 @@
 
 This Sub folder contains code to classify Fashion MNIST dataset into its categories.
 
-1. Below are the workbooks present it explain PyTorch:
+1. Supporting Documents:
 
     - Part 4 - Fashion-MNIST (Exercises).ipynb
 
