@@ -4,7 +4,7 @@
 
 This Sub folder Introduction to Pytorch and how is it used for Deep Learning
 
-1. Below are the workbooks present it explain PyTorch:
+1. Below are the workbooks present to explain PyTorch:
 
     - Introduction to Tensors
 
