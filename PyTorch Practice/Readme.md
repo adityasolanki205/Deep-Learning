@@ -9,3 +9,5 @@ This Sub folder Introduction to Pytorch and how is it used for Deep Learning
     - Introduction to Tensors
 
     - Neural Network in PyTorch
+    
+    - Training Neural Network
