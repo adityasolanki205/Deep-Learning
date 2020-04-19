@@ -6,7 +6,7 @@
 
 This Sub folder contains code to understand to concept of Training a Neural Network
 
-1. Below are the workbooks present it explain PyTorch:
+1. Supporting Documents:
 
     - Part 3 - Training Neural Networks (Exercises).ipynb
 
