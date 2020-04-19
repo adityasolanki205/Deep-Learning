@@ -6,7 +6,7 @@
 
 This Sub folder contains code for understanding the prediction and its Validation
 
-1. Below are the workbooks present it explain PyTorch:
+1. Supporting Documents:
 
     - Part 5 - Inference and Validation (Exercises).ipynb
 
