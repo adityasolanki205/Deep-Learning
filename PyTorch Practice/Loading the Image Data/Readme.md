@@ -6,7 +6,7 @@
 
 This Sub folder contains code for loading the Image data using DataLoader
 
-1. Below are the workbooks present it explain PyTorch:
+1. Supporting Documents:
 
     - Part 7 - Loading Image Data (Exercises).ipynb
     
