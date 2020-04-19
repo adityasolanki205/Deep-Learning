@@ -1,6 +1,6 @@
-# Intro to Machine Learning Nanodegree
+# Deep Learning
 
-## Deep Learning
+## Back Propagation
 
 This Sub folder has basics of Back Propagation where the process is explained using mathematical equations
 
