@@ -17,3 +17,5 @@ This Sub folder Introduction to Pytorch and how is it used for Deep Learning
     - Inference and Validation
     
     - Saving and Loading Model
+    
+    - Loading the Image data
