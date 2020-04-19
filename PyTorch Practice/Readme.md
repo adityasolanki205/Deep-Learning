@@ -19,3 +19,5 @@ This Sub folder Introduction to Pytorch and how is it used for Deep Learning
     - Saving and Loading Model
     
     - Loading the Image data
+    
+    - Transfer Learning 
