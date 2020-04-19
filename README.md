@@ -4,3 +4,4 @@ This course is introduction to basic neural Networks in machine learning, focusi
 Below are the workbooks provided in the learning:
 -  Gradient Descent
 -  Back Propagation
+-  Multilayer Perceptron
