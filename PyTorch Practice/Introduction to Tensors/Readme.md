@@ -15,6 +15,3 @@ This Sub folder has basic introduction to Tensors.
     - fc_model.py
     
     - helper.py
-    
-    - assets
-
