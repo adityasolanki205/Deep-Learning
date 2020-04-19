@@ -6,3 +6,4 @@ Below are the workbooks provided in the learning:
 -  Back Propagation
 -  Multilayer Perceptron
 -  Neural Networks Example
+-  PyTorch Practice
